@@ -1,12 +1,12 @@
 
-# Chessico
+<center># Chessico</center>
 
 It is a chess game but not like any normal chess , it has some modifications as for example the bishop has a new special move, some of the other pieces has some modifications that will be discussed downwards
 
 ## Table of Contents
 
-- [Introduction]
-- [Features]
+- Introduction
+- Features
 - [Usage]
 - [Authors]
 - [Modified Moves]
