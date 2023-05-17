@@ -1,5 +1,5 @@
 
-<center># Chessico</center>
+# Chessico 
 
 It is a chess game but not like any normal chess , it has some modifications as for example the bishop has a new special move, some of the other pieces has some modifications that will be discussed downwards
 
@@ -7,13 +7,13 @@ It is a chess game but not like any normal chess , it has some modifications as 
 
 - Introduction
 - Features
-- [Usage]
-- [Authors]
-- [Modified Moves]
-- [Screenshots}
-- [Support]
-- [Roadmap]
-- [Changelog]
+- Usage
+- Authors
+- Modified Moves
+- Screenshots
+- Support
+- Roadmap
+- Changelog
 
 ## Introduction
 
@@ -87,6 +87,12 @@ For support contact us at
 Email: youssefmm2003@gmail.com
 
 Email: zisco2002@gmail.com
+
+Email: almatador.egy@gmail.com
+
+Email: omar.khaled_eg@yahoo.com
+
+Email: ahmedadilelhaseeny@gmail.com
 
 ## Roadmap
 
